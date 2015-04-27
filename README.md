@@ -6,4 +6,5 @@ The source code was used to demonstrate sencha touch and cordova.
 ## authors
 
 sebastian.kaempfer@hs-osnabrueck.de
+
 oliver.erxleben@hs-osnabrueck.de
